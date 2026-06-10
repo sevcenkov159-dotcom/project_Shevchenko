@@ -1,0 +1,24 @@
+--- Данные пользователя ---
+First Name: ddefc
+Last Name: cdfgvrfd
+Screen Name: dfgrtfgt
+Date of Birth: 13 August 2000
+Gender: Male
+Country: Andorra
+E-mail: gfdgd
+Phone: 5747473
+Password: aaaa
+---------------------------
+
+--- Данные пользователя ---
+First Name: ddefc
+Last Name: cdfgvrfd
+Screen Name: dfgrtfgt
+Date of Birth: 13 August 2000
+Gender: Male
+Country: Andorra
+E-mail: gfdgd
+Phone: 5747473
+Password: aaaa
+---------------------------
+
